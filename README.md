@@ -1,5 +1,32 @@
-# My_first_repository
+# 👋 Hello, I'm Jerald kepti!
 
+<div align="center">
+
+### 💻 Information Systems Student | 🌐 Web Developer | 🚀 Future IT Professional
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
+
+👋 Hi, I'm jerald!
+
+💻 IT Student | 🌱 Future Developer | 🚀 Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+an+IT+Student;Learning+Web+Development;Building+My+Future+in+Tech+%F0%9F%9A%80" alt="Typing Animation">---
+
+## 👨‍💻 About Me
+
+Hi! I'm *Jerald*, an Information Systems student who enjoys
+building useful and simple digital solutions.
+
+- 🎓 Currently studying Information Systems
+- 💻 Interested in Web Development
+- 🗄️ Interested in Database Management
+- 📱 Exploring modern technologies
+- 🚀 Building projects for real-world problems
+- 📚 Always learning something new
+
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jeraldkepti86-sys) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jeraldkepti86-sys) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Jeraldkepti86-sys) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Jeraldkepti86-sys) 
 
