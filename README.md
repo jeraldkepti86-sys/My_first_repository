@@ -8,11 +8,20 @@
 
 </div>
 
-👋 Hi, I'm jerald!
 
 💻 IT Student | 🌱 Future Developer | 🚀 Tech Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+an+IT+Student;Learning+Web+Development;Building+My+Future+in+Tech+%F0%9F%9A%80" alt="Typing Animation">---
+
+<div align="center">
+
+<h2>🐍 My GitHub Contribution Journey</h2>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+     alt="GitHub Contribution Snake Animation" />
+
+</div>
+
 
 ## 👨‍💻 About Me
 
